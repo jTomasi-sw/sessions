@@ -1,8 +1,8 @@
 {
   "version":
     {
-      "newMandatoryVersion": true,
-      "newRecommendedVersion": false,
+      "hasNewVersion": true,
+      "isRequired": true,
       "message": "Update required"
     }
 }
