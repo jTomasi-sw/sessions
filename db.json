@@ -2,7 +2,7 @@
   "version":
     {
       "hasNewVersion": true,
-      "isRequired": true,
+      "isRequired": false,
       "message": "Update required"
     }
 }
